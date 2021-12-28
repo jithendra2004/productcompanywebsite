@@ -465,11 +465,11 @@ Moving their headquarters to Cary in 1999, the studio's name was simplified to E
 
 ![output 1](.\images\output1.png)
 ## product:
-![output 2](output2.png)
+![output 2](.\images\output2.png)
 ## people:
-![output 3]()
+![output 3](.\images\output3.png)
 ## contact us:
-![output 4]()
+![output 4](.\images\output4.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.

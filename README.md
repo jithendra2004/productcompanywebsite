@@ -465,11 +465,11 @@ Moving their headquarters to Cary in 1999, the studio's name was simplified to E
 
 ![output 1](https://github.com/jithendra2004/productcompanywebsite/blob/main/output1.png?raw=true)
 ## product:
-![output 2](.\images\output2.png)
+![output 2](https://github.com/jithendra2004/productcompanywebsite/blob/main/images/output2.png?raw=true)
 ## people:
-![output 3](.\images\output3.png)
+![output 3](https://github.com/jithendra2004/productcompanywebsite/blob/main/images/output3.png?raw=true)
 ## contact us:
-![output 4](.\images\output4.png)
+![output 4](https://github.com/jithendra2004/productcompanywebsite/blob/main/images/output4.png?raw=true)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.

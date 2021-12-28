@@ -463,7 +463,7 @@ Moving their headquarters to Cary in 1999, the studio's name was simplified to E
 
 ### Home Page:
 
-![output 1](.\images\output1.png)
+![output 1](https://github.com/jithendra2004/productcompanywebsite/blob/main/output1.png?raw=true)
 ## product:
 ![output 2](.\images\output2.png)
 ## people:

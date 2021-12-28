@@ -463,9 +463,9 @@ Moving their headquarters to Cary in 1999, the studio's name was simplified to E
 
 ### Home Page:
 
-![output 1]()
+![output 1](output 1.png)
 ## product:
-![output 2]()
+![output 2](output 2.png)
 ## people:
 ![output 3]()
 ## contact us:
